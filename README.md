@@ -1,4 +1,4 @@
 # Rosas-To-Do-List
-To-Do list made in Javascript ☑️ 📝
+To-Do list made in Javascript 📝
 
-https://empty-pleasure.glitch.me/
+https://empty-pleasure.glitch.me
